@@ -1,0 +1,1 @@
+git 创建目录。然后在git软件上进入这个目录上利用git clone github的http地址创建项目
